@@ -1,6 +1,7 @@
 console.log("Service worker loaded")
 
 const FILES_TO_CACHE = [
+    "/db.js",
     "/",
     "index.html",
     "favicon.ico",
