@@ -21,6 +21,8 @@
   
   ## Usage 
   Use this to track your budget! Add and delete funds to keep track of the total that you have remaining.
+  Click the deployed link below to begin using the app!  
+  https://shielded-dusk-79353.herokuapp.com/
   ![PWA Budget Tracker](./2020-07-29.png)
   
   ## Contributing
